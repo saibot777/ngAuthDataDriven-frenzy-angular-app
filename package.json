@@ -1,0 +1,17 @@
+{
+  "name": "ngfrenzyauth",
+  "version": "1.0.0",
+  "description": "frenzy app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Stefan Trajkovic",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
